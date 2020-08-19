@@ -1,4 +1,8 @@
 This is line 1, isn't it?
 And this is line 2
 So this is line 3
+<<<<<<< HEAD
+this could be line 4.
+=======
 How about another one, say line 4
+>>>>>>> origin/HEAD
